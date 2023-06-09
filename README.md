@@ -83,3 +83,5 @@ public class IdletoCrouch : MonoBehaviour
 ![](ot3.png)
 
 ## Result:
+Thus, the animator was successfully developed in unity engine with the C#.
+
